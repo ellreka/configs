@@ -1,6 +1,6 @@
 {
   "name": "@ellreka/configs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:ellreka/configs.git",
   "author": "ellreka <ellreka5364@gmail.com>",
@@ -12,5 +12,8 @@
     "eslint-plugin-node": "11",
     "eslint-plugin-promise": "4",
     "eslint-plugin-standard": "4"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
