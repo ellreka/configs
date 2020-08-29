@@ -1,6 +1,6 @@
 {
   "name": "@ellreka/configs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "git@github.com:ellreka/configs.git",
   "author": "ellreka <ellreka5364@gmail.com>",
