@@ -12,9 +12,13 @@ module.exports = {
     'prettier',
     '@typescript-eslint',
     'simple-import-sort',
+    'import',
     'react-hooks',
     'jsx-a11y'
   ],
+  rules: {
+    'simple-import-sort/sort': 'error'
+  },
   parserOptions: {
     project: './tsconfig.json'
   }
