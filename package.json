@@ -6,6 +6,7 @@
   "author": "ellreka <ellreka5364@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "gen": "hygen configs new",
     "eslint": "eslint src --ext .ts,.tsx"
   },
   "dependencies": {
@@ -22,7 +23,8 @@
     "eslint-plugin-react-hooks": "^4.1.2",
     "eslint-plugin-simple-import-sort": "^5.0.3",
     "eslint-plugin-standard": "4",
-    "eslint-standard": "^1.0.2"
+    "eslint-standard": "^1.0.2",
+    "hygen": "^6.0.4"
   },
   "devDependencies": {
     "eslint": "^7.9.0",
