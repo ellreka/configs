@@ -5,6 +5,7 @@
   "repository": "git@github.com:ellreka/configs.git",
   "author": "ellreka <ellreka5364@gmail.com>",
   "license": "MIT",
+  "bin": "bin/cli.sh",
   "scripts": {
     "gen": "hygen configs new",
     "eslint": "eslint src --ext .ts,.tsx"
