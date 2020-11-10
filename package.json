@@ -24,11 +24,11 @@
     "eslint-plugin-react-hooks": "^4.1.2",
     "eslint-plugin-simple-import-sort": "^5.0.3",
     "eslint-plugin-standard": "4",
-    "eslint-standard": "^1.0.2",
-    "hygen": "^6.0.4"
+    "eslint-standard": "^1.0.2"
   },
   "devDependencies": {
     "eslint": "7.9.0",
+    "hygen": "^6.0.4",
     "prettier": "2.1.2",
     "typescript": "4.0.2"
   }
