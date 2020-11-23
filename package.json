@@ -23,7 +23,7 @@
     "eslint-plugin-react": "^7.20.6",
     "eslint-plugin-react-hooks": "^4.1.2",
     "eslint-plugin-simple-import-sort": "^5.0.3",
-    "eslint-plugin-standard": "4",
+    "eslint-plugin-standard": "5",
     "eslint-standard": "^1.0.2"
   },
   "devDependencies": {
