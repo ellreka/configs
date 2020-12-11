@@ -8,7 +8,8 @@
   "bin": "bin/init.sh",
   "scripts": {
     "gen": "hygen configs new",
-    "eslint": "eslint src --ext .ts,.tsx"
+    "eslint": "eslint src --ext .ts,.tsx",
+    "build-css": "npx tailwindcss-cli build -o build/style.css"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "4",
@@ -30,6 +31,7 @@
     "eslint": "7.13.0",
     "hygen": "6.0.4",
     "prettier": "2.1.2",
-    "typescript": "4.0.5"
+    "typescript": "4.0.5",
+    "tailwindcss": "^2.0.2"
   }
 }
