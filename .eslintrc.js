@@ -22,6 +22,13 @@ module.exports = {
     'sort-imports': 'off',
     'simple-import-sort/imports': 'warn',
     'simple-import-sort/exports': 'warn',
+    'typescript-sort-keys/interface': 'warn',
+    'typescript-sort-keys/string-enum': 'warn',
+    'react/prop-types': 'off',
+    'sort-destructure-keys/sort-destructure-keys': [
+      'warn',
+      { caseSensitive: false }
+    ]
   },
   parserOptions: {
     project: './tsconfig.json'
