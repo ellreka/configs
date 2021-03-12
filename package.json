@@ -31,7 +31,7 @@
     "prettier-plugin-tailwind": "^2.2.10"
   },
   "devDependencies": {
-    "eslint": "7.21.0",
+    "eslint": "7.22.0",
     "hygen": "6.0.4",
     "prettier": "2.2.1",
     "tailwindcss": "2.0.3",
