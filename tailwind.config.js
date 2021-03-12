@@ -19,7 +19,9 @@ module.exports = {
       borderWidth: ['hover', 'focus'],
       opacity: ['disabled'],
       pointerEvents: ['disabled'],
-      cursor: ['disabled']
+      cursor: ['disabled'],
+      ringWidth: ['group-focus'],
+      textColor: ['group-focus']
     }
   },
   plugins: []
