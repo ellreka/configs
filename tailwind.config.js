@@ -9,9 +9,8 @@ module.exports = {
         coolGray: colors.coolGray,
         orange: colors.orange
       },
-      minWidth: {
-        ...theme.spacing
-      }
+      minWidth: theme.spacing,
+      minHeight: theme.spacing
     }
   },
   variants: {
