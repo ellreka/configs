@@ -12,7 +12,7 @@
     "build-css": "npx tailwindcss-cli build -o build/style.css"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "4",
+    "@typescript-eslint/eslint-plugin": "5",
     "eslint-config-prettier": "^6.11.0",
     "eslint-config-standard-react": "^11.0.0",
     "eslint-config-standard-with-typescript": "^19.0.0",
