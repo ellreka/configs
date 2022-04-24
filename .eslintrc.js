@@ -1,14 +1,11 @@
 module.exports = {
   extends: [
     'standard',
-    'standard-with-typescript',
     'standard-react',
+    'prettier',
     'plugin:prettier/recommended',
     'plugin:jsx-a11y/recommended',
     'plugin:react-hooks/recommended',
-    'prettier/@typescript-eslint',
-    'prettier/react',
-    'prettier/standard',
   ],
   plugins: [
     'prettier',
